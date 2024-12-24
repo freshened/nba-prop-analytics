@@ -70,6 +70,9 @@ This repository contains a set of Python scripts designed to fetch, filter, and 
    python average_stats_today_players.py
    ```
 
+4. **View Output**: Check the `nba_player_props_filtered.json` file for the filtered odds data and analysis results.
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs or feature requests.
