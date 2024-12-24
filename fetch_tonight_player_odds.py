@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-API_KEY = "585cf61ec047faab3d59b6daa8df7cdd"  # Replace with your actual API key
+API_KEY = "YOURAPIKEYHERE"  # Replace with your actual API key
 SPORT = "basketball_nba"
 BASE_URL = "https://api.the-odds-api.com/v4/sports"
 
