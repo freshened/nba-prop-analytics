@@ -41,7 +41,7 @@ This repository contains a set of Python scripts designed to fetch, filter, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nba-player-prop-odds.git
+   git clone https://github.com/freshened/nba-prop-analytics.git
    cd nba-player-prop-odds
    ```
 
